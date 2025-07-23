@@ -41,3 +41,7 @@ Outcomes:
 * Gained hands-on experience working with public APIs.
 * Improved data analysis and visualization skills.
 * Understood how to build simple dashboards and real-time data apps.
+
+  OUTPUT:
+
+  <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe7beb5e-4f3c-42c4-9d84-a784545bc7bd" />
